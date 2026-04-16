@@ -7,24 +7,22 @@
 
 <p align="center">
 
-<div align="center" display="flex" flex-direction = "row">
-<img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=php" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
-</div>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java"  />
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </br>
 </br>
-<div>
+
 <img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=godot" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
-</div>
+
 </br>
 </br>
 
