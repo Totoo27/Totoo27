@@ -3,5 +3,5 @@
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](ignaciodiazdiaz@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/igna.ddiaz/)](https://www.instagram.com/igna.ddiaz/)
+📫 [![Gmail Badge](https://img.shields.io/badge/-ignaciodiazdiaz27@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](ignaciodiazdiaz@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/igna.ddiaz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/igna.ddiaz/)](https://www.instagram.com/igna.ddiaz/)
