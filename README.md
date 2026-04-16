@@ -5,9 +5,9 @@
 # 🛠 How i work
 </br>
 
-<p align="center">
+<div align="center">
   
-## Languages
+<h2> Languages </h2>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=java"  />
@@ -28,7 +28,7 @@
 </br>
 </br>
 
-</p>
+</div>
 
 ## 🌐 Contact me
 📫 [![Gmail Badge](https://img.shields.io/badge/-ignaciodiazdiaz27@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](mailto:ignaciodiazdiaz27@gmail.com)
