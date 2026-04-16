@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<div>
 <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
@@ -16,12 +16,15 @@
 <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=php" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
+</div>
 </br>
 </br>
+<div>
 <img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=godot" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+</div>
 </br>
 </br>
 
