@@ -8,8 +8,23 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://skillicons.dev/icons?i=git" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=c" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=cpp" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=java" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=js" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=css" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=html" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=php" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=mysql" width="50" hight="50" />
 </br>
+<img src="https://skillicons.dev/icons?i=eclipse" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=godot" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=sublime" width="50" hight="50" />
+<img src="https://skillicons.dev/icons?i=vscode" width="50" hight="50" />
+</br>
+</br>
+
+</p>
 
 ## 🌐 Contact me
 📫 [![Gmail Badge](https://img.shields.io/badge/-ignaciodiazdiaz27@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](mailto:ignaciodiazdiaz27@gmail.com)
