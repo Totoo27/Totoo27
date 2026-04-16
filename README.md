@@ -19,7 +19,7 @@
 </br>
 </br>
 
-## Tools
+<h2>Tools</h2>
 <img src="https://skillicons.dev/icons?i=eclipse"/>
 <img src="https://skillicons.dev/icons?i=godot"/>
 <img src="https://skillicons.dev/icons?i=sublime"/>
