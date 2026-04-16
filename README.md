@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, i'm Ignacio Diaz Diaz<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&count_private=true&theme=tokyonight&layout=compact)
 
-# 🛠 How i work
+# 🛠 Languages & Tools
 </br>
 
 <div align="center">
-  
-<h2> Languages </h2>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=java"  />
@@ -18,8 +16,6 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </br>
 </br>
-
-<h2>Tools</h2>
 <img src="https://skillicons.dev/icons?i=eclipse"/>
 <img src="https://skillicons.dev/icons?i=godot"/>
 <img src="https://skillicons.dev/icons?i=sublime"/>
