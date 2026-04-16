@@ -2,12 +2,12 @@
 
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
 
-# Languages & Tools 👨‍💻 🛠:
+# 🛠 Languages & Tools
 </br>
 
 <p align="center">
 
-<div>
+<div align="center" display="flex" flex-direction = "row">
 <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
