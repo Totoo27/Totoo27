@@ -2,11 +2,12 @@
 
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
 
-# 🛠 Languages & Tools
+# 🛠 How i work
 </br>
 
 <p align="center">
-
+  
+## Languages
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=java"  />
@@ -18,10 +19,11 @@
 </br>
 </br>
 
-<img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=godot" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+## Tools
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+<img src="https://skillicons.dev/icons?i=godot"/>
+<img src="https://skillicons.dev/icons?i=sublime"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </br>
 </br>
