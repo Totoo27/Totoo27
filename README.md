@@ -24,7 +24,7 @@
 
 ## 📊 Stats:
 
-[![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&count_private=true&theme=tokyonight&layout=compact)](https://github-readme-stats-vercel-blue.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
+[![AkuraDiary's Top Langs](https://github-readme-stats-vercel-blue.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)]
 
 </div>
 
