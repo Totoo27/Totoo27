@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, i'm Ignacio Diaz Diaz<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&count_private=true&theme=dracula&layout=compact)
-
 # 🛠 Languages & Tools
 </br>
 
@@ -23,6 +21,10 @@
 
 </br>
 </br>
+
+## 📊 Stats:
+
+[![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Totoo27&count_private=true&theme=tokyonight&layout=compact)](https://github-readme-stats-vercel-blue.vercel.app/api/top-langs/?username=Totoo27&theme=tokyonight&layout=compact)
 
 </div>
 
