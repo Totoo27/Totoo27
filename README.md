@@ -29,5 +29,7 @@
 </div>
 
 ## 🌐 Contact me
-📫 [![Gmail Badge](https://img.shields.io/badge/-ignaciodiazdiaz27@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](mailto:ignaciodiazdiaz27@gmail.com)
+📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-esteban-diaz-diaz-414062402/)
+[![Gmail Badge](https://img.shields.io/badge/-ignaciodiazdiaz27@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ignaciodiazdiaz27@gmail.com)](mailto:ignaciodiazdiaz27@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/igna.ddiaz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/igna.ddiaz/)](https://www.instagram.com/igna.ddiaz/)
