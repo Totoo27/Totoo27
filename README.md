@@ -2,6 +2,7 @@
 
 # 🛠 Languages & Tools
 </br>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=java"  />
@@ -16,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=godot"/>
 <img src="https://skillicons.dev/icons?i=sublime"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+</div>
 
 
 </br>
