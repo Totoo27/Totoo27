@@ -18,6 +18,7 @@
 <img src="https://skillicons.dev/icons?i=godot"/>
 <img src="https://skillicons.dev/icons?i=sublime"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+</div>
 
 </br>
 </br>
